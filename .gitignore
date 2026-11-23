@@ -1,0 +1,19 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter/VS Code notebook state
+.ipynb_checkpoints/
+
+# Local/generated reports
+notebook_seating_report.html
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

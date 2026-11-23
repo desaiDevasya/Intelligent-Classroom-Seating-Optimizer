@@ -9,6 +9,8 @@ Course: CSE518: Artificial Intelligence | Monsoon 2026
 
 ▶ Submitted by: Devasya Desai | AU2320161 
 
+![Demo](GUI.png)
+
 ## Start here
 
 The professor-facing application starts directly with:
